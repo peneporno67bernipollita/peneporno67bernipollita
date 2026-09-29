@@ -34,7 +34,7 @@ Me gusta construir cosas que funcionan de verdad: asistentes de IA que corren 10
 
 [![Sophia](images/sophia.svg)](https://github.com/TU_USUARIO/sophia)
 
-[![Sophia](https://img.shields.io/github/stars/TU_USUARIO/sophia?label=Sophia&style=social)](https://github.com/TU_USUARIO/sophia)
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-sophia-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/TU_USUARIO/sophia)
 
 Asistente de voz que se ejecuta **100% en local y sin coste**: palabra de activación, reconocimiento y síntesis de voz, y memoria basada en Obsidian. Pensado para controlar el ordenador por voz mientras trabaja en segundo plano.
 
@@ -42,7 +42,7 @@ Asistente de voz que se ejecuta **100% en local y sin coste**: palabra de activa
 
 [![PhishGuard](images/phishguard.svg)](https://github.com/TU_USUARIO/phishguard)
 
-[![PhishGuard](https://img.shields.io/github/stars/TU_USUARIO/phishguard?label=PhishGuard&style=social)](https://github.com/TU_USUARIO/phishguard)
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-phishguard-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/TU_USUARIO/phishguard)
 
 App de escritorio que vigila tus cuentas de correo en busca de **phishing, spam y malware**, con análisis mediante IA local y validación de registros MX vía DNS over HTTPS.
 
@@ -50,7 +50,7 @@ App de escritorio que vigila tus cuentas de correo en busca de **phishing, spam 
 
 [![MonKedex](images/monkedex.svg)](https://github.com/TU_USUARIO/monkedex)
 
-[![MonKedex](https://img.shields.io/github/stars/TU_USUARIO/monkedex?label=MonKedex&style=social)](https://github.com/TU_USUARIO/monkedex)
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-monkedex-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/TU_USUARIO/monkedex)
 
 App móvil para crear tu propia Pokédex desde cero: búsqueda, filtros por tipo, evoluciones, favoritos y equipo.
 
@@ -58,7 +58,7 @@ App móvil para crear tu propia Pokédex desde cero: búsqueda, filtros por tipo
 
 [![Dulces Santos Pecados](images/dulces-santos.svg)](https://github.com/TU_USUARIO/dulces-santos)
 
-[![Dulces Santos](https://img.shields.io/github/stars/TU_USUARIO/dulces-santos?label=Dulces%20Santos%20Pecados&style=social)](https://github.com/TU_USUARIO/dulces-santos)
+[![Ver código](https://img.shields.io/badge/Ver_c%C3%B3digo-dulces--santos-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/TU_USUARIO/dulces-santos)
 
 Web para un negocio de repostería con una identidad elegante en negro y dorado.
 
