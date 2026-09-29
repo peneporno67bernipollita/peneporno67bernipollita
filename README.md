@@ -69,5 +69,5 @@ Web para un negocio de repostería con una identidad elegante en negro y dorado.
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/Email-[TU_EMAIL]-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:[TU_EMAIL])
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:[TU_EMAIL])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Escr%C3%ADbeme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/[TU_LINKEDIN])
